@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">birthday-card-demo</string>
+    <string name="happy_birthday_text">Happy Birthday Coby</string>
+    <string name="signature_text">- Luffy</string>
+</resources>
